@@ -147,3 +147,22 @@ a:hover {
     background-color: #0d0f36;
     color: #b9f1d6;
 }
+
+/* Estilos para paginación */
+button.activo {
+    background-color: #0d0f36;
+    color: white;
+}
+
+button {
+    margin: 5px;
+    padding: 10px;
+    border: none;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: #294380;
+    color: white;
+}
+

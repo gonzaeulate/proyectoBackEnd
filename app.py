@@ -8,6 +8,7 @@ from flask_cors import CORS
 # Instalar con pip install mysql-connector-python
 import mysql.connector
 
+
 # Si es necesario, pip install Werkzeug
 from werkzeug.utils import secure_filename
 
